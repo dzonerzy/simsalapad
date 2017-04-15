@@ -26,3 +26,4 @@ SOFTWARE.
 """
 
 from simsalapad import PaddingOracle
+from simsalapad import IVRecover
